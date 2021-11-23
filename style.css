@@ -27,7 +27,7 @@ ul li {
 /* MAIN */
 
 /* SEZIONI */
-/* section1 */
+
 .section1,
 .section3{
     background-color:#19BC9D;
@@ -40,6 +40,15 @@ ul li {
 .section5{
     background-color:#3A546D ;
     text-align: center;
+}
+.section4 .col .form-control{
+    border: none;
+    border-radius:0;
+    border-bottom:solid 1px grey;
+}
+.section4 .col .btn-primary{
+    background-color: #19BC9D;
+    border: none;
 }
 
 /* FOOTER */
