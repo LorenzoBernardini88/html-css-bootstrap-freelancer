@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 /* HEADER NAV */
 header{
     background-color: #2C3F51;
@@ -26,5 +27,7 @@ ul li a{
 
 /* section1 */
 .section1{
-    background-color:#19BC9D ;
+    background-color:#19BC9D;
+    color: #fff;
+    text-align: center;
 }
