@@ -15,9 +15,6 @@ header{
 .text-right{
     color: #fff;
 }
-.text-right{
-    text-align: center;
-}
 ul li {
     list-style: none;
     padding: 0 15px;
