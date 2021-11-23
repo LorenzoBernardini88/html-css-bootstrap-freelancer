@@ -10,8 +10,11 @@ header{
 }
 .text-left,
 .text-right,
-ul li a{
+a{
     color:#fff;
+}
+a{
+    text-decoration: none;
 }
 .text-right{
     text-align: center;
@@ -20,14 +23,13 @@ ul li {
     list-style: none;
     padding: 0 15px;
 }
-ul li a{
-    text-decoration: none;
-}
+
 /* MAIN */
 
 /* SEZIONI */
 /* section1 */
-.section1{
+.section1,
+.section3{
     background-color:#19BC9D;
     color: #fff;
     text-align: center;
@@ -35,4 +37,5 @@ ul li a{
 .section2{
     text-align: center;
 }
+
 
