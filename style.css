@@ -25,9 +25,14 @@ ul li a{
 }
 /* MAIN */
 
+/* SEZIONI */
 /* section1 */
 .section1{
     background-color:#19BC9D;
     color: #fff;
     text-align: center;
 }
+.section2{
+    text-align: center;
+}
+
