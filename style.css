@@ -39,13 +39,6 @@ ul li {
 footer{
     color: #fff;
 }
-.section1,
-.section2,
-.section3,
-.section5,
-footer{
-    text-align: center;
-}
 .section4 .col .form-control{
     border: none;
     border-radius:0;
