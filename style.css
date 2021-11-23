@@ -37,5 +37,15 @@ ul li {
 .section2{
     text-align: center;
 }
+.section5{
+    background-color:#3A546D ;
+    text-align: center;
+}
 
+/* FOOTER */
+footer{
+    background-color: #2C3F51;
+    text-align: center;
+    padding: 20px 0px;
+}
 
