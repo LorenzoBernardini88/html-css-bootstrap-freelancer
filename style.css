@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* HEADER NAV */
+header{
+    background-color: #2C3F51;
+}
+.text-left,
+.text-right,
+ul li a{
+    color:#fff;
+}
+.text-right{
+    text-align: center;
+}
+ul li {
+    list-style: none;
+    padding: 0 15px;
+}
+ul li a{
+    text-decoration: none;
+}
+/* MAIN */
+
+/* section1 */
+.section1{
+    background-color:#19BC9D ;
+}
