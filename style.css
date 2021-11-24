@@ -47,7 +47,6 @@ ul li {
 footer{
     color: #fff;
 }
-
 .section4 .col .form-control{
     border: none;
     border-radius:0;
@@ -63,7 +62,6 @@ footer{
 .section4 .star_icon:before{
     background-color: black;
 }
-
 .star_icon:after,
 .star_icon::before{
     content: "";
@@ -80,6 +78,14 @@ footer{
 }
 .star_icon::before{
     margin-right: 10px;
+}
+.section5 .social_icon a{
+    margin-left: 20px ;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    padding: 10px;
 }
 
 
