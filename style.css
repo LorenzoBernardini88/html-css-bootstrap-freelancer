@@ -19,8 +19,8 @@ a{
 header{
     background-color: #2C3F51;
 }
-.text-left,
-.text-right{
+.text_left,
+.text_right{
     color: #fff;
 }
 ul li {
@@ -48,6 +48,7 @@ ul li {
 footer{
     color: #fff;
 }
+
 .section4 .col .form-control{
     border: none;
     border-radius:0;
@@ -57,6 +58,29 @@ footer{
     background-color: #19BC9D;
     border: none;
 }
+.section4.star_icon:after,
+.section4.star_icon::before{
+    background-color: black;
+}
+.star_icon:after,
+.star_icon::before{
+    content: "";
+    height: 3px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 2px;
+    line-height: 4px;
+    vertical-align: middle;
+    display:inline-block;
+}
+.star_icon:after{
+    margin-left: 10px;
+}
+.star_icon::before{
+    margin-right: 10px;
+}
+
+
 /* FOOTER */
 footer{
     background-color: #2C3F51;
