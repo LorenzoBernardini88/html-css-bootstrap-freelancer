@@ -30,7 +30,6 @@ ul li {
 /* MAIN */
 
 /* sezioni */
-
 .section1 .col-12 .jumbo img{
     width: 200px;
 }
@@ -87,7 +86,11 @@ footer{
     border: 1px solid #fff;
     padding: 10px;
 }
-
+.section3 a{
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
 
 /* FOOTER */
 footer{
