@@ -10,7 +10,6 @@
 body{
     font-family:'Roboto', sans-serif;
 }
-
 a{
     color:#fff;
     text-decoration: none;
@@ -58,10 +57,13 @@ footer{
     background-color: #19BC9D;
     border: none;
 }
-.section4.star_icon:after,
-.section4.star_icon::before{
+.section2 .star_icon:after,
+.section2 .star_icon:before,
+.section4 .star_icon:after,
+.section4 .star_icon:before{
     background-color: black;
 }
+
 .star_icon:after,
 .star_icon::before{
     content: "";
