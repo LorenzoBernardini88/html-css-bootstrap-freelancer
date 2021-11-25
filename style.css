@@ -26,7 +26,10 @@ ul li {
     list-style: none;
     padding: 0 15px;
 }
-
+.ms_navbar_icon{
+    background-color:#2C3F51 ;
+    color: white;
+}
 /* MAIN */
 
 /* sezioni */
